@@ -12,4 +12,9 @@ public class TestClass {
 	public void testM2() {
 		Assert.assertTrue(true);
 	}
+	
+	@Test
+	public void testM3() {
+		Assert.assertTrue(true);
+	}
 }
